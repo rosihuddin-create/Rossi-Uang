@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Keluarga",
+  "description": "Aplikasi keuangan keluarga untuk Budgetting, pelacakan pengeluaran otomatis, sinkronisasi antar anggota, investasi, dan rencana pensiun dengan bantuan asisten AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
